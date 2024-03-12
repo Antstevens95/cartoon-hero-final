@@ -1,0 +1,7 @@
+body{background-color: whitesmoke;}
+h1{font-size: 30px; color: navy;}
+		h2{font-size: 20px; color: RebeccaPurple;}
+		.big{font-size: 60px;}
+		.uppercase{text-transform: uppercase;}
+		.big.uppercase{color: Magenta;}
+		h1 span{color: deepskyblue;}
